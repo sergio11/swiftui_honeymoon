@@ -9,6 +9,10 @@ Welcome to **SwiftUI Honeymoon**, an advanced iOS and iPadOS application that sh
   <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
+## ⚠️ Disclaimer
+
+This project, **SwiftUI Honeymoon**, is an **educational and experimental** iOS and iPadOS application built to showcase the capabilities and features of **SwiftUI**. This project is intended for **learning, experimentation, and demonstration purposes only**. It is not intended for commercial deployment or production use.
+
 This project offers a comprehensive learning experience in SwiftUI, including:
 
 ### 🎯 Objectives:
